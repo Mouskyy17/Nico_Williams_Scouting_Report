@@ -106,7 +106,7 @@ percentiles = {
 st.markdown("""
 <div class="main-header">
     <h1>🔴🔵 SCOUTING REPORT - NICO WILLIAMS</h1>
-    <h2>Le Profil Idéal pour l'Ailier Gauche du FC Barcelona</h2>
+    <h2>Le Profil Idéal pour l'Aile Gauche du FC Barcelona</h2>
 </div>
 """, unsafe_allow_html=True)
 
