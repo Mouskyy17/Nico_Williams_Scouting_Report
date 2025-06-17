@@ -544,7 +544,7 @@ with col2:
 st.markdown("""
 <div style="background: linear-gradient(45deg, #004d98, #a50044); padding: 2rem; border-radius: 15px; text-align: center; color: white; margin: 2rem 0;">
     <h2>🏆 VERDICT FINAL</h2>
-    <h3>Nico Williams représente le profil idéal pour révolutionner l'attaque du FC Barcelona</h3>
+    <h3>Nico Williams représente le profil idéal pour permettre a l'attaque du FC Barcelona d'atteindre un nouveau milestone et de continuer son chantier de destruction sur le foot Europeen</h3>
     <p>Ses qualités de dribble d'élite mondiale, sa capacité de progression et sa polyvalence en font un investissement stratégique parfait pour les années à venir.</p>
     <p><strong>Score global de recommandation: 9.2/10</strong></p>
 </div>
